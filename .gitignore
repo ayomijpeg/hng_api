@@ -1,0 +1,6 @@
+/vendor
+.vercel
+.DS_Store
+.vscode/
+.idea/
+.env
