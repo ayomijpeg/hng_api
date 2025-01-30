@@ -1,5 +1,9 @@
+#both .vercelignore and .gitignore
+
+# PHP
+
 /vendor
-.DS_Store
-node_modules
-.git
-.env
+
+# Vercel
+
+.vercel
