@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 
 // Response Data
 $response = [
-    "email" => "your-email@example.com",
+    "email" => "ayomitomiwa53@gmail.com",
     "current_datetime" => gmdate("Y-m-d\TH:i:s\Z"),
     "github_url" => "https://github.com/ayomijpeg/hng_api"
 ];
